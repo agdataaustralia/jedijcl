@@ -12,7 +12,7 @@ __history
 *.exe
 *.dll
 *.bpl
-*.dcu
+# *.dcu
 *.dcp
 
 # C++ Builder Compiler output files
