@@ -11,9 +11,9 @@ __history
 *.tds
 *.exe
 *.dll
-*.bpl
-*.dcu
-*.dcp
+# *.bpl
+# *.dcu
+# *.dcp
 
 # C++ Builder Compiler output files
 *.bpi
